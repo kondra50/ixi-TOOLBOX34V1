@@ -3,9 +3,9 @@ import salesforce_reporting
 import requests,json
 from flask import jsonify
 from SFDC import  dbmodels
-sf = Salesforce(username='customerservice@integenx.com', password='password12345', security_token='3GKZny4jRWgmXNUmvFjzKhggQ')
+sf = Salesforce(username='', password='', security_token='3GKZny4jRWggQ')
 analytic_sf = salesforce_reporting.Connection('3MVG99OxTyEMCQ3glBkdKh4SE2HJs4uODXEl2Fux.LFlCzqkgs9Tr8XLqmCvUsOSdsVpbGoj9xhN5f4hpJ2OZ', '86072956447270870',
-'customerservice@integenx.com', 'password123453GKZny4jRWgmXNUmvFjzKhggQ', 'na13')
+'cgenx.com', 'passKhggQ', 'na13')
 
 report=analytic_sf.get_report('00Oa0000008uK2BEAU', filters=None, details=True)
 parser = salesforce_reporting.ReportParser(report)
