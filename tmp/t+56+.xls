@@ -1,0 +1,1119 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en"><!-- InstanceBegin template="/Templates/Basic-IndexPage.dwt.asp" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+<title>Postsecondary Preparation (CA Dept of Education)</title>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="Provides standardized test results from the SAT, ACT, and AP tests which measure high school students' achievement.
+" />
+<link rel="shortcut icon" href="/favicon.ico"  type="image/x-icon" />
+
+<link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+      
+<link href="/css/tabcontent.css" rel="stylesheet" />
+	
+<!-- Yamm styles-->
+<link href="/bootstrap/css/yamm.css" rel="stylesheet" />
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--if lt IE 9
+script(src='https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js')
+script(src='https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js')
+-->
+
+<link rel="stylesheet" href="/font-awesome-4.2.0/css/font-awesome.min.css" />
+
+<link rel='stylesheet' type='text/css' href='/css/indexRWD.css' />
+<link rel='stylesheet' type='text/css' href='/css/baseRWD.css' />
+<link rel='stylesheet' type='text/css' href='/css/navbarRWD.css' />
+<link rel='stylesheet' type='text/css' href='/css/mediaqueryRWD.css' />
+<link rel='stylesheet' type='text/css' href='/css/dsRWD.css?v1' />  <!-- CSS specific to Topic -->
+	
+
+	<link rel="stylesheet" type="text/css" href="/css/www-specific.css" />
+   
+
+<script src="/sortabletable.js"></script>
+<script src="/scriptsRWD.js"></script>
+<script src="/jquery.js"></script>
+<script src="/accord.js"></script>
+<script src="/tabcontent.js"></script>
+<!--
+/***********************************************
+* Tab Content script v2.2- Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+-->
+	
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script src="/general.js"></script>
+<script type="text/javascript">
+	google.load('search', '1');
+	google.setOnLoadCallback(function() {        
+	google.search.CustomSearchControl.attachAutoCompletion(
+	'001779225245372747843:gpfwm5rhxiw',
+		  document.getElementById('searchquery'),
+	'cse-search-box');
+	google.search.CustomSearchControl.attachAutoCompletion(
+	'001779225245372747843:gpfwm5rhxiw',
+		  document.getElementById('searchquery-collapse'),
+	'cse-search-box');
+	});
+</script>
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+
+<div class="container" id="outer-container">
+	    
+<form class="form-inline" name="search" method="post" action="/search.asp" ID="cse-search-box" style="padding-top:0px;">
+    <div class="container hidden-xs">
+		<div class="row" style="height:70px;">
+			<div class="col-lg-6">
+				<div id="logobase">
+					<a href="/index.asp" id="logo" title="A link to the California Department of Education home page.">
+						<span class="invisible">California Department of Education</span>
+					</a>
+				</div>
+			</div>
+			<div class="col-lg-6" id="top-search-box">
+				<div class="input-group pull-right">
+					<input type="search" class="form-control" style="width:320px;" id="searchquery" name="searchquery" placeholder="search this site" aria-label="search term" maxlength="100">
+					<span class="input-group-btn">
+						<button class="btn btn-primary" type="submit">Search</button>
+					</span>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="navbar yamm navbar-inverse" style="font-size:12px;">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" data-toggle="collapse" data-target="#navbar-collapse-1" class="navbar-toggle navbar-hamburger-icon">
+					<span class="invisible">Navigation Menu</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				
+					<a href="/" class="navbar-brand visible-xs-inline">California Department of Education</a>
+					<a href="/index.asp" class="navbar-brand visible-xxs-inline">CA Dept of Education</a>
+				
+
+				<button type="button" data-toggle="collapse" data-target="#navbar-collapse-search" class="navbar-toggle btn btn-default navbar-search-icon" style="float:right;">
+					<span class="invisible">Search Site</span>
+					<span class="glyphicon glyphicon-search" style="color:#FFFFFF;font-size:16px;"></span>
+				</button>				
+
+			</div>
+			<div id="navbar-collapse-search" class="navbar-collapse collapse" style="padding-left:2px;">
+				<div class="visible-search-form">
+					<div class="input-group col-xs-10">
+						<input type="search" class="form-control" id="searchquery-collapse" name="searchquery-collapse" placeholder="search site" aria-label="search term" maxlength="100">
+						<span class="input-group-btn">
+							<button class="btn btn-default" type="submit">Search</button>
+						</span>
+					</div><!-- /input-group -->
+				</div>
+			</div>
+			<div id="navbar-collapse-1" class="navbar-collapse collapse" style="padding-left:2px;">
+				<ul class="nav navbar-nav">
+					<!-- Start of Curriculum & Instruction -->
+						
+					<li class="dropdown "><a href="#" data-toggle="dropdown" class="dropdown-toggle">Curriculum &amp; Instruction<b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li>
+								<div class="yamm-content">
+									<div class="row">
+										<ul class="col-sm-4 list-unstyled">
+											<li class="nav-topic-home"><a href="/ci/">Curriculum &amp; Instruction Home</a></li>
+											<li class="nav-subtopic"><a href="/ci/ct/">Career Technical Education</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/ci/ct/bm/"> Business &amp; Marketing </a></li>
+													<li><a href="/ci/ct/hc/"> Health Careers Education </a></li>
+													<li><a href="/ci/ct/ie/"> Industrial & Technology Education </a></li>
+													<li><a href="/ci/ct/pk/"> Perkins </a></li>
+													<li><a href="/ci/ct/rp/"> ROCP </a></li>
+													<li><a href="/ci/ct/sf/"> Standards & Framework </a></li>
+													<li><a href="/ci/ct/we/"> Work Experience Education (WEE) </a></li>
+												</ul>
+											</li>
+										</ul>
+										<ul class="col-sm-4 list-unstyled">
+                                            <li class="nav-subtopic nav-top-col-menu-item"><a href="/ci/">Curriculum Resources</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/re/cc/">Common Core State Standards</a></li>
+													<li><a href="/ci/cr/cf/">Curriculum Frameworks & Instructional Materials</a></li>
+													<li><a href="/ci/cr/dr/">Driver Education</a></li>
+													<li><a href="/ci/cr/ri/">Multi-Tiered System of Supports</a></li>
+													<li><a href="/ci/cr/rl/">Recommended Literature</a></li>
+													<li><a href="/ci/cr/lb/">School Libraries</a></li>
+													<li><a href="/ci/cr/sl/">Service-Learning</a></li>
+													<li><a href="/re/pn/sm/">Specialized Media</a></li>
+												</ul>
+											</li>
+                                            <li class="nav-subtopic" style="margin-top:10px;"><a href="/ci/gs/">Grade Spans</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/sp/cd/">Child Development</a></li>
+													<li><a href="/ci/gs/em/">Elementary</a></li>
+													<li><a href="/ci/gs/mg/">Middle Grades</a></li>
+													<li><a href="/ci/gs/hs/">High School</a></li>
+													<li><a href="/ci/gs/ps/">Postsecondary</a></li>
+													<li><a href="/sp/ae/">Adult Education</a></li>
+												</ul>
+											</li>
+										</ul>
+                                        <ul class="col-sm-4 list-unstyled">
+                                            <li class="nav-subtopic nav-top-col-menu-item"><a href="/pd/">Professional Learning</a></li>
+											<li class="list-unstyled">
+												<ul class="nav-subtopic-items">
+													<li><a href="/pd/ai/">Administrators</a></li>
+													<li><a href="/pd/bt/">Become a Teacher</a></li>
+													<li><a href="/pd/te/">Current K-12 Teachers</a></li>
+													<li><a href="/pd/ca/">Curriculum Areas</a></li>																																						<li><a href="/pd/ps/">Professional Standards</a></li>
+													<li><a href="/qs/">Quality Schooling Framework</a></li>
+												</ul>
+											</li>
+                                            <li class="nav-subtopic list-unstyled" style="margin-top:10px;"><a href="/ci/cr/cf/cimegasubjectareas.asp">Subject Areas</a></li>
+											<li class="list-unstyled">
+												<ul class="nav-subtopic-items">
+													<li><a href="/ci/he/">Health</a></li>
+													<li><a href="/ci/hs/">History-Social Science</a></li>
+													<li><a href="/ci/ma/">Mathematics</a></li>
+													<li><a href="/ci/pe/">Physical Education</a></li>
+													<li><a href="/ci/rl/">English Language Arts</a></li>
+													<li><a href="/ci/sc/">Science</a></li>
+													<li><a href="/ci/vp/">Visual & Performing Arts</a></li>
+													<li><a href="/ci/fl/">World Language</a></li>
+												</ul>
+											</li>
+										</ul>							
+									</div>
+								</div>
+							</li>
+						</ul>
+					
+					</li>
+					<!-- End of Curriculum & Instruction -->
+					<!-- Start of Testing & Accountability -->
+                        
+					<li class="dropdown "><a href="#" data-toggle="dropdown" class="dropdown-toggle">Testing &amp; Accountability<b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li>
+								<div class="yamm-content">
+									<div class="row">
+										<ul class="col-sm-4 list-unstyled">
+											<li class="nav-topic-home"><a href="/ta/">Testing & Accountability Home</a></li>
+											<li class="nav-subtopic"><a href="/ta/ac/">Accountability</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/ta/ac/ap/">Academic Performance Index (API)</a></li>
+													<li><a href="/ta/ac/ar/">Accountability Progress Reporting (APR)</a></li>
+													<li><a href="/ta/ac/ay/">Adequate Yearly Progress (AYP)</a></li>
+													<li><a href="/ta/ac/am/">Alternative Schools Accountability Model (ASAM)</a></li>
+
+<li><a href="/ta/ac/cm/">California Accountability Model & School Dashboard</a></li>
+													<li><a href="/ta/ac/le/">Local Educational Agency Accountability Report Card</a></li>
+													<li><a href="/ta/ac/pe/">Parent Empowerment</a></li>
+													<li><a href="/ta/ac/pl/">Persistently Lowest-Achieving Schools</a></li>
+													<li><a href="/ta/ac/sa/">School Accountability Report Card (SARC)</a></li>
+													<li><a href="/ta/ac/sc/">State Accountability Report Card</a></li>
+													<li><a href="/ta/ac/ti/">Title I, Part A-Accountability</a></li>
+													<li><a href="/ta/ac/t3/">Title III Accountability</a></li>
+												</ul>
+											</li>
+										</ul>
+										<ul class="col-sm-4 list-unstyled">
+											<li class="nav-subtopic nav-top-col-menu-item"><a href="/ta/cr/">Compliance Monitoring</a></li>								
+											<li class="nav-subtopic" style="margin-top:10px;"><a href="/ta/lp/">District & School Interventions</a></li>								
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/ta/ac/ti/programimprov.asp">Program Improvement</a></li>
+												</ul>
+											</li>
+                                            <li class="nav-subtopic" style="margin-top:10px;"><a href="/ta/sr/">California School Recognition Program</a></li>								
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/ta/sr/aa/">Academic Achievement Awards</a></li>
+													<li><a href="/ta/sr/cs/">California Distinguished Schools Program</a></li>
+													<li><a href="/ta/sr/ct/">California Teachers of the Year</a></li>
+													<li><a href="/ta/sr/cl/">Classified School Employees of the Year</a></li>
+													<li><a href="/ta/sr/gr/">California Gold Ribbon Schools</a></li>
+												</ul>
+											</li>
+										</ul>
+										<ul class="col-sm-4 list-unstyled">
+											<li class="nav-subtopic nav-top-col-menu-item"><a href="/ta/tg/">Testing</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/ta/tg/ai/">Assessment Information</a></li>
+													<li><a href="/ta/tg/ca/">CA Assessment of Student Performance and Progress (CAASPP)</a></li>
+													<li><a href="/ta/tg/el/">CA English Language Development Test (CELDT)</a></li>
+													<li><a href="/ta/tg/hs/">CA High School Exit Examination (CAHSEE)</a></li>
+													<li><a href="/ta/tg/sp/">CA High School Proficiency Examination (CHSPE)</a></li>
+													<li><a href="/ta/tg/ep/">English Language Proficiency Assessments for CA (ELPAC)</a></li>
+													<li><a href="/ta/tg/da/">Grade Two Diagnostic Assessment</a></li>
+													<li><a href="/ta/tg/gd/">High School Equivalency Tests (HSET)</a></li>
+													<li><a href="/ta/tg/nr/">National Assessment of Educational Progress (NAEP)</a></li>
+													<li><a href="/ta/tg/pf/">Physical Fitness Testing (PFT)</a></li>
+													<li><a href="/ta/tg/sa/">Smarter Balanced Assessment System</a></li>
+												</ul>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+						</ul>
+						
+					</li>
+					<!-- End of Testing & Accountability -->
+					<!-- Start of Finance & Grants -->
+                        
+					<li class="dropdown "><a href="#" data-toggle="dropdown" class="dropdown-toggle">Finance &amp; Grants<b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li>
+								<div class="yamm-content">
+									<div class="row">
+										<ul class="col-sm-4 list-unstyled">
+											<li class="nav-topic-home"><a href="/fg/">Finance &amp; Grants Home</a></li>
+											<li class="nav-subtopic"><a href="/fg/ac/">Accounting</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/fg/ac/sa/">Definitions, Instructions, &amp; Procedures</a></li>
+													<li><a href="/fg/ac/ic/">Indirect Cost Rates (ICR)</a></li>
+													<li><a href="/fg/ac/ac/">Standardized Account Code Structure (SACS)</a></li>
+												</ul>
+											</li>
+											<li class="nav-subtopic" style="margin-top:10px;"><a href="/fg/aa/">Allocations & Apportionments</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/fg/aa/ca/">Categorical Programs</a></li>
+													<li><a href="/fg/aa/cd/">Child Development</a></li>
+													<li><a href="/fg/aa/co/">Consolidated Application</a></li>
+													<li><a href="/fg/aa/cm/">Federal Cash Management</a></li>
+													<li><a href="/fg/aa/lc/">Local Control Funding Formula</a></li>
+													<li><a href="/fg/aa/pa/">Principal Apportionment</a></li>
+												</ul>
+											</li>
+										</ul>
+										<ul class="col-sm-4 list-unstyled">
+											<li class="nav-subtopic nav-top-col-menu-item"><a href="/fg/fo/">Funding</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/fg/fo/af/">Available Funding</a></li>
+													<li><a href="/fg/fo/fr/">Funding Results</a></li>
+													<li><a href="/fg/fo/pf/">Projected Funding</a></li>
+													<li><a href="/fg/fo/sf/">Search CDE Funding</a></li>
+													<li><a href="/fg/fo/of/ap/">Outside Funding</a></li>
+													<li><a href="/fg/fo/fm/">Funding Tools & Materials</a></li>
+												</ul>
+											</li>
+										</ul>
+										<ul class="col-sm-4 list-unstyled">
+											<li class="nav-subtopic nav-top-col-menu-item"><a href="/fg/fo/fm/fgmegaothertopics.asp">Finance &amp; Grants Other Topics</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/fg/au/">Auditing</a></li>
+													<li><a href="/fg/fi/">Fiscal Oversight</a></li>
+													<li><a href="/fg/fr/">Reports</a></li>
+													<li><a href="/fg/sf/">Software & Forms</a></li>
+												</ul>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+						</ul>
+						
+					</li>
+					<!-- End of Finance & Grants -->
+					<!-- Start of Data & Statistics -->
+                        
+					<li class="dropdown active"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Data &amp; Statistics<b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li>
+								<div class="yamm-content">
+									<div class="row">
+										<ul class="col-sm-4 list-unstyled">
+											<li class="nav-topic-home"><a href="/ds/">Data &amp; Statistics Home</a></li>
+											<li class="nav-subtopic"><a href="/ds/dc/">Data Collections</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/ds/dc/cb/">California Basic Educational Data System (CBEDS)</a></li>
+													<li><a href="/ds/sp/cl/">California Longitudinal Pupil Achievement Data System (CALPADS)</a></li>
+													<li><a href="/ds/dc/cs/">California School Information Services (CSIS)</a></li>
+													<li><a href="/ds/dc/es/">Longitudinal Education Data Systems</a></li>
+												</ul>
+											</li>
+											<li class="nav-subtopic" style="margin-top:10px;"><a href="/ds/fd/">Financial</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/ds/fd/fd/">Annual Financial Data</a></li>
+													<li><a href="/ds/fd/cs/">Certificated Salaries & Benefits</a></li>
+													<li><a href="/ds/fd/ec/">Current Expense of Education & Per-pupil Spending</a></li>
+													<li><a href="/fg/ac/ic/">Indirect Cost Rates (ICR)</a></li>
+												</ul>
+											</li>
+										</ul>
+										<ul class="col-sm-4 list-unstyled">
+											<li class="nav-subtopic nav-top-col-menu-item"><a href="/ds/sd/">Demographics</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="http://dq.cde.ca.gov/dataquest/">DataQuest</a></li>
+													<li><a href="/ds/sd/df/">Staff Data Files (Downloadable)</a></li>
+													<li><a href="/ds/sd/dr/">Staff Data Reports</a></li>
+													<li><a href="/ds/sd/sd/">Student & School Data Files (Downloadable)</a></li>
+													<li><a href="/ds/sd/cb/">Student & School Data Reports</a></li>
+												</ul>
+											</li>
+											<li class="nav-subtopic" style="margin-top:10px;"><a href="/ds/sh/">Student Health & Support</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/ds/sh/cw/">Free and Reduced Price Meal Eligibility Data</a></li>
+													<li><a href="/ds/sh/sn/">Food Programs</a></li>
+												</ul>
+											</li>
+											<li class="nav-subtopic" style="margin-top:10px;"><a href="/ds/dd/">Downloadable Data Files</a></li>
+											<li class="nav-subtopic" style="margin-top:10px;"><a href="/ds/da/">Data Requests</a></li>
+										</ul>
+										<ul class="col-sm-4 list-unstyled">
+											<li class="nav-subtopic nav-top-col-menu-item"><a href="/ds/si/">School Identification</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/ds/si/cs/">Charter School Locator</a></li>
+													<li><a href="/ds/si/ps/">Private Schools</a></li>
+													<li><a href="/ds/si/rp/">Regional Occupational Centers & Programs</a></li>
+													<li><a href="/ds/si/ds/">Schools & Districts</a></li>
+												</ul>
+											</li>
+											<li class="nav-subtopic" style="margin-top:10px;"><a href="/ds/sp/">School Performance</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/ta/ac/ap/">Academic Performance Index (API)</a></li>
+													<li><a href="/ta/ac/ay/">Adequate Yearly Progress (AYP)</a></li>
+													<li><a href="/ds/sp/ai/">Postsecondary Preparation</a></li>
+												</ul>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+						</ul>
+						
+					</li>
+					<!-- End of Data & Statistics -->
+					<!-- Start of Specialized Programs -->
+                        
+					<li class="dropdown "><a href="#" data-toggle="dropdown" class="dropdown-toggle">Specialized Programs<b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li>
+								<div class="yamm-content">
+									<div class="row">
+										<ul class="col-sm-6 list-unstyled">
+											<li class="nav-topic-home"><a href="/sp/">Specialized Programs Home</a></li>
+											<li class="nav-subtopic"><a href="/sp/ae/">Adult Education</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/sp/ae/ds/">Directory of Schools</a></li>
+													<li><a href="/sp/ae/fg/">Federal Grants Administration</a></li>
+												</ul>
+											</li>
+											<li class="nav-subtopic" style="margin-top:10px;"><a href="/sp/cs/">Charter Schools</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/sp/cs/as/">Administration & Support</a></li>
+													<li><a href="/sp/cs/lr/">Laws, Regulations, & Policies</a></li>
+												</ul>
+											</li>
+											<li class="nav-subtopic" style="margin-top:10px;"><a href="/sp/cd/">Child Development</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/sp/cd/ci/">Contractor Information</a></li>
+													<li><a href="/sp/cd/lr/">Laws, Regulations, & Requirements</a></li>
+													<li><a href="/sp/cd/op/">Program Overview</a></li>
+													<li><a href="/sp/cd/re/">Resources</a></li>
+												</ul>
+											</li>
+											<li class="nav-subtopic" style="margin-top:10px;"><a href="/sp/eo/">Educational Options</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/sp/eo/is/">Independent Study</a></li>
+													<li><a href="/sp/eo/op/">Open Enrollment</a></li>
+												</ul>
+											</li>
+											<li class="nav-subtopic" style="margin-top:10px;"><a href="/sp/el/">English Learners</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/sp/el/t3/">Title III</a></li>
+												</ul>
+											</li>
+
+										</ul>
+										<ul class="col-sm-6 list-unstyled">
+											<li class="nav-subtopic nav-top-col-menu-item"><a href="/sp/se/">Special Education</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/sp/se/as/">Administration & Support</a></li>
+													<li><a href="/sp/se/ac/">Announcements & Current Issues</a></li>
+													<li><a href="/sp/se/ds/">Data Collection & Reporting</a></li>
+													<li><a href="/sp/se/fp/">Family Involvement & Partnerships</a></li>
+													<li><a href="/sp/se/lr/">Laws, Regulations, & Requirements</a></li>
+													<li><a href="/sp/se/qa/">Quality Assurance Process</a></li>
+													<li><a href="/sp/se/sr/">Services & Resources</a></li>
+												</ul>
+											</li>
+											<li class="nav-subtopic" style="margin-top:10px;"><a href="/sp/sw/">Title I</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/sp/sw/t1/">Improving Academic Achievement</a></li>
+													<li><a href="/sp/sw/rt/ ">Schoolwide Programs</a></li>
+													<li><a href="/sp/sw/ss/">Statewide System of School Support (S4)</a></li>
+												</ul>
+											</li>
+											<li class="nav-subtopic" style="margin-top:10px;"><a href="/sp/ai/re/spmegaothertopics.asp">Specialized Programs Other Topics</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/sp/ai/">American Indian</a></li>
+													<li><a href="/sp/gt/ ">Gifted & Talented Education</a></li>
+													<li><a href="/sp/hs/">Homeless Education</a></li>
+													<li><a href="/sp/me/">Migrant/International</a></li>
+													<li><a href="/sp/ps/">Private Schools</a></li>
+													<li><a href="/sp/ss/">State Special Schools</a></li>
+												</ul>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+						</ul>
+						
+					</li>
+					<!-- End of Specialized Programs -->
+					<!-- Start of Learning Support -->
+                        
+					<li class="dropdown "><a href="#" data-toggle="dropdown" class="dropdown-toggle">Learning Support<b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li>
+								<div class="yamm-content">
+									<div class="row">
+										<ul class="col-sm-6 list-unstyled">
+											<li class="nav-topic-home"><a href="/ls/">Learning Support Home</a></li>
+											<li class="nav-subtopic"><a href="/ls/ai/">Attendance Improvement</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/ls/ai/sb/">School Attendance Review Boards</a></li>
+													<li><a href="/ls/ai/tr/">Truancy</a></li>
+												</ul>
+											</li>
+											<li class="nav-subtopic" style="margin-top:10px;"><a href="/ls/ba/">Before & After School</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/ls/ba/cp/">21st Century Community Learning Centers</a></li>
+													<li><a href="/ls/ba/as/">After School Education & Safety Program</a></li>
+												</ul>
+											</li>
+											<li class="nav-subtopic" style="margin-top:10px;"><a href="/ls/nu/">Nutrition</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/ls/nu/cc/">Child & Adult Care Food Program (CACFP)</a></li>
+													<li><a href="/ls/nu/cn/">Child Nutrition Information & Payment System (CNIPS)</a></li>
+													<li><a href="/ls/nu/rs/">Rates, Eligibility Scales, & Funding</a></li>
+													<li><a href="/ls/nu/sn/">School Nutrition</a></li>
+												</ul>
+											</li>
+										</ul>
+										<ul class="col-sm-6 list-unstyled">
+											<li class="nav-subtopic nav-top-col-menu-item"><a href="/ls/pf/">Parents/Family & Community</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/ls/pf/cm/">Clearinghouse for Multilingual Documents</a></li>
+												</ul>
+											</li>
+											<li class="nav-subtopic" style="margin-top:10px;"><a href="/ls/yd/rs/lsmegaothertopics.asp">Learning Support Other Topics</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/ls/cs/">Class Size Reduction</a></li>
+													<li><a href="/ls/cg/">Counseling/Student Support</a></li>
+													<li><a href="/ls/et/">Education Technology</a></li>
+													<li><a href="/ls/fa/">Facilities</a></li>
+													<li><a href="/ls/he/">Health</a></li>
+													<li><a href="/ls/ss/">Safe Schools</a></li>
+													<li><a href="/ls/tn/">Transportation</a></li>
+													<li><a href="/ls/yd/">Youth Development</a></li>
+												</ul>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+						</ul>
+						
+					</li>
+					<!-- End of Learning Support -->
+					<!-- Start of Professional Learning -->
+                        
+					<li class="dropdown  visible-lg-block"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Professional Learning<b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li>
+								<div class="yamm-content">
+									<div class="row">
+										<ul class="col-sm-12 list-unstyled">
+                                            <li class="nav-subtopic"><a href="/pd/">Professional Learning Home</a></li>
+											<li>
+												<ul class="nav-subtopic-items">
+													<li><a href="/pd/ai/">Administrators</a></li>
+													<li><a href="/pd/bt/">Become a Teacher</a></li>
+													<li><a href="/pd/te/">Current K-12 Teachers</a></li>
+													<li><a href="/pd/ca/">Curriculum Areas</a></li>
+													<li><a href="/pd/ps/">Professional Standards</a></li>
+													<li><a href="/qs/">Quality Schooling Framework</a></li>
+												</ul>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+						</ul>
+						
+					</li>
+					<!-- End of Learning Support -->
+				</ul>
+			</div>
+		</div>
+	</div> <!-- nav container -->
+</form>	
+	
+	<script type="text/javascript">
+	document.getElementById('searchquery').setAttribute('autocomplete','off');
+	document.getElementById('searchquery-collapse').setAttribute('autocomplete','off');
+	</script>
+    <img src="/images/cdeLogoBaseBW-faded.gif" id="logoimage" alt="California Department of Education Logo" />
+
+	
+	<div class="container" id="content">
+		<ul class='breadcrumb'>
+<li><a href='/index.asp'>Home</a></li>
+<li><a href='/ds/'>Data & Statistics</a></li>
+<li><a href='/ds/sp/'>School Performance</a></li>
+<li>Postsecondary Preparation</li>
+</ul>
+                <a name="top" id="top"></a>
+		<h1>Postsecondary Preparation</h1>
+		Provides standardized test results from the SAT, ACT, and AP tests which measure high school students' achievement.
+	
+		<hr class="coloredline" />
+        
+		<div class="row">
+            <div class="col-md-9">
+
+<!-- InstanceBeginEditable name="MainBody" -->
+<h2 align="center">SAT, ACT, and AP Test Results</h2>
+<h5>SAT Test Results</h5>
+<ul>
+<li><a href="whatissat.asp">What is the SAT?</a><br>
+<br>
+</li>
+<li><a href="http://data1.cde.ca.gov/dataquest/">County, District, and School SAT Reports</a><br>
+<br>
+<ul>
+<li><a href="glossarysat2016.asp" title="Glossary-2015 SAT Report">Glossary-2016 SAT Report</a></li>
+<li><a href="glossarysat2015.asp" title="Glossary-2015 SAT Report">Glossary-2015 SAT Report</a></li>
+<li><a href="glossarysat2014.asp">Glossary-2014 SAT Report</a></li>
+<li><a href="glossarysat2013.asp">Glossary-2013 SAT Report</a></li>
+<li><a href="glossarysat2012.asp">Glossary-2012 (and prior years) SAT Report</a></li>
+</ul>
+</li>
+</ul>
+<h5>Downloadable SAT Data Files</h5>
+<ul>
+<li><a href="reclayoutsat16.asp">SAT Record Layout 2015&#8211;16</a></li>
+</ul>
+<ul>
+<ul>
+<li><a href="http://www3.cde.ca.gov/researchfiles/satactap/sat16.xls">2015&#8211;16 SAT</a> (XLS; Posted 13-Mar-2017) </li>
+<li><a href="http://www3.cde.ca.gov/researchfiles/satactap/sat16.txt">2015&#8211;16 SAT</a> (TXT; Posted 13-Mar-2017)</li>
+</ul>
+</ul>
+<ul>
+<li><a href="reclayoutsat.asp">SAT  Record Layout for 2013&#8211;14 and 2014&#8211;15</a><br>
+</li>
+</ul>
+<ul>
+<ul>
+<li><a href="http://www3.cde.ca.gov/researchfiles/satactap/sat15.xls">2014&#8211;15 SAT</a> (XLS; Posted 20-Jul-2016)</li>
+<li><a href="http://www3.cde.ca.gov/researchfiles/satactap/sat15.txt">2014&#8211;15 SAT</a> (TXT; Posted 20-Jul-2016) </li>
+<li><a href="http://www3.cde.ca.gov/researchfiles/satactap/sat14.xls">2013&#8211;14 SAT</a> (XLS; Revised 20-Jul-2016)</li>
+<li> <a href="http://www3.cde.ca.gov/researchfiles/satactap/sat14.txt">2013&#8211;14 SAT</a> (TXT; Revised 20-Jul-2016) </li>
+</ul>
+</ul>
+<ul>
+<li><strong>Prior Years</strong><br>
+<br>
+<ul>
+<li><a href="documents/sat13.xls">SAT 2012&#8211;13</a>&nbsp;&nbsp;(XLS; Posted 09-Jul-2014)</li>
+<li><a href="documents/sat12.xls">SAT 2011&#8211;12</a>&nbsp;&nbsp;(XLS; Posted 05-Sep-2013)</li>
+<li> <a href="documents/sat11.xls">SAT 2010&#8211;11</a>&nbsp;&nbsp;(XLS; Posted 13-Sep-2012)</li>
+<li> <a href="documents/sat10.xls">SAT 2009&#8211;10</a>&nbsp;&nbsp;(XLS; Revised 26-Sep-2011)</li>
+<li> <a href="documents/sat09.xls">SAT 2008&#8211;09</a>&nbsp; (XLS; Posted 18-May-2010)</li>
+<li> <a href="documents/sat08.xls">SAT 2007&#8211;08</a>&nbsp; (XLS; Revised 08-Jul-2009)</li>
+<li> <a href="documents/sat07.xls">SAT 2006&#8211;07</a>&nbsp; (XLS; Revised 28-Apr-2009)</li>
+<li> <a href="documents/sat06.xls">SAT 2005&#8211;06</a>&nbsp; (XLS; Revised 28-Apr-2009)</li>
+<li> <a href="documents/sat05.xls">SAT 2004&#8211;05</a> &nbsp;(XLS; Revised 04-Jun-2009)</li>
+<li> <a href="documents/sat04.xls">SAT 2003&#8211;04</a> &nbsp;(XLS; Revised 04-Jun-2009)</li>
+<li> <a href="documents/sat03.xls">SAT 2002&#8211;03</a> &nbsp;(XLS; Revised 04-Jun-2009)</li>
+<li> <a href="documents/sat02.xls">SAT 2001&#8211;02</a> &nbsp;(XLS; Revised 04-Jun-2009)</li>
+<li> <a href="documents/sat01.xls">SAT 2000&#8211;01</a> &nbsp;(XLS; Revised 04-Jun-2009)</li>
+<li> <a href="documents/sat00.xls">SAT 1999&#8211;00</a> &nbsp;(XLS; Revised 04-Jun-2009)</li>
+<li> <a href="documents/sat99.xls">SAT 1998&#8211;99</a> &nbsp;(XLS; Revised 04-Jun-2009)</li>
+</ul>
+</li>
+</ul>
+<h5>ACT Test Results<br>
+</h5>
+<ul>
+<li><a href="whatisact.asp">What is the ACT?<br>
+<br>
+</a></li>
+<li><a href="http://data1.cde.ca.gov/dataquest/">County, District, and School ACT Reports</a><br>
+<br>
+<ul>
+<li><a href="glossaryact2016.asp" title="Glossary-2015 ACT Report">Glossary-2016 ACT Report</a></li>
+<li><a href="glossaryact2015.asp" title="Glossary-2015 ACT Report">Glossary-2015 ACT Report</a></li>
+<li>        <a href="glossaryact2014.asp">Glossary-2014 ACT Report</a></li>
+<li>        <a href="glossaryact2013.asp">Glossary-2013 ACT Report</a></li>
+<li>        <a href="glossaryact2012.asp">Glossary-2012 (and prior years) ACT Report</a></li>
+</ul>
+</li>
+</ul>
+<h5>Downloadable ACT Data Files<br>
+</h5>
+<ul>
+<li><a href="reclayoutact16.asp">ACT - Record Layout for 2015&#8211;16</a><br>
+<br>
+<ul>
+<li><a href="http://www3.cde.ca.gov/researchfiles/satactap/act16.xls">2015&#8211;16 ACT</a> (XLS; Posted 13-Mar-2017)</li>
+<li><a href="http://www3.cde.ca.gov/researchfiles/satactap/act16.txt">2015&#8211;16 ACT</a> (TXT; Posted 13-Mar-2017) </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="reclayoutact.asp">ACT -Record Layout for 2013&#8211;14 and 2014&#8211;15</a></li>
+
+<ul>
+<li><a href="http://www3.cde.ca.gov/researchfiles/satactap/act15.xls">2014&#8211;15 ACT</a> (XLS; Posted 10-May-2016)</li>
+<li><a href="http://www3.cde.ca.gov/researchfiles/satactap/act15.txt">2014&#8211;15 ACT</a> (TXT; Posted 10-May-2016)</li>
+<li><a href="http://www3.cde.ca.gov/researchfiles/satactap/act14.xls">2013&#8211;14 ACT</a> (XLS; Revised 10-May-2016)</li>
+<li> <a href="http://www3.cde.ca.gov/researchfiles/satactap/act14.txt">2013&#8211;14 ACT</a> (TXT; Revised 10-May-2016)</li>
+</ul>
+</ul>
+
+
+<ul>
+<li><strong>Prior Years</strong><br>
+<br>
+<ul>
+<li><a href="documents/act13.xls">ACT 2012&#8211;13</a> (XLS; Posted 09-Jul-2014)</li>
+<li> <a href="documents/act12.xls">ACT 2011&#8211;12</a> (XLS; Posted 05-Sep-2013)</li>
+<li> <a href="documents/act11.xls">ACT 2010&#8211;11</a>&nbsp;&nbsp;(XLS; Posted 13-Sep-2012)</li>
+<li> <a href="documents/act10.xls">ACT 2009&#8211;10</a>&nbsp;&nbsp;(XLS; Revised 26-Sep-2011)</li>
+<li> <a href="documents/act09.xls">ACT 2008&#8211;09</a>&nbsp;&nbsp;(XLS; Posted 18-May-2010)</li>
+<li> <a href="documents/act08.xls">ACT 2007&#8211;08</a> &nbsp;(XLS; Posted 07-Jul-2009)</li>
+<li> <a href="documents/act07.xls">ACT 2006&#8211;07</a> &nbsp;(XLS; Revised 18-May-2010)</li>
+<li> <a href="documents/act06.xls">ACT 2005&#8211;06</a> &nbsp;(XLS; Revised 04-Jun-2009)</li>
+<li> <a href="documents/act05.xls">ACT 2004&#8211;05</a> &nbsp;(XLS; Revised 04-Jun-2009)</li>
+<li> <a href="documents/act04.xls">ACT 2003&#8211;04</a> &nbsp;(XLS; Revised 04-Jun-2009)</li>
+<li> <a href="documents/act03.xls">ACT 2002&#8211;03</a> &nbsp;(XLS; Revised 04-Jun-2009)</li>
+<li> <a href="documents/act02.xls">ACT 2001&#8211;02</a> &nbsp;(XLS; Revised 04-Jun-2009)</li>
+<li> <a href="documents/act01.xls">ACT 2000&#8211;01</a> &nbsp;(XLS; Revised 04-Jun-2009)      </li>
+<li><a href="documents/act00.xls">ACT 1999&#8211;00</a> &nbsp;(XLS; Revised 04-Jun-2009)</li>
+<li> <a href="documents/act99.xls">ACT 1998&#8211;99</a> &nbsp;(XLS; Revised 04-Jun-2009)</li>
+</ul>
+</li>
+</ul>
+<h5>AP Test Results</h5>
+<ul>
+<li><a href="whatisap.asp">What is the AP?</a><br>
+<br>
+</li>
+<li><a href="http://data1.cde.ca.gov/dataquest/">County, District, and School AP Reports</a><br>
+<br>
+<ul>
+<li><a href="glossaryap2016.asp">Glossary-2016 AP Report</a></li>
+<li><a href="glossaryap2015.asp">Glossary-2015 AP Report</a></li>
+<li>        <a href="glossaryap2014.asp">Glossary-2014 AP Report</a></li>
+<li>        <a href="glossaryap2013.asp">Glossary-2013 AP Report</a></li>
+<li>        <a href="glossaryap2012.asp">Glossary-2012 (and prior years) AP Report</a></li>
+</ul>
+</li>
+</ul>
+<h5>Downloadable AP Data Files<br>
+</h5>
+<ul>
+<li><a href="reclayoutap16.asp">AP - Record Layout for 2015&#8211;16</a><br>
+<br>
+<ul>
+<li><a href="http://www3.cde.ca.gov/researchfiles/satactap/ap16.xls">2015&#8211;16 AP</a> (XLS; Posted 13-Mar-2017)</li>
+<li><a href="http://www3.cde.ca.gov/researchfiles/satactap/ap16.txt">2015&#8211;16 AP</a> (TXT; Posted 13-Mar-2017) </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="reclayoutap.asp">AP - Record Layout for 2013&#8211;14 and 2014&#8211;15</a>
+<ul>
+<li><a href="http://www3.cde.ca.gov/researchfiles/satactap/ap15.xls">2014&#8211;15 AP</a> (XLS; Posted 10-May-2016)</li>
+<li><a href="http://www3.cde.ca.gov/researchfiles/satactap/ap15.txt">2014&#8211;15 AP</a> (TXT; Posted 10-May-2016)</li>
+<li><a href="http://www3.cde.ca.gov/researchfiles/satactap/ap14.xls">2013&#8211;14 AP</a> (XLS; Revised 10-May-2016)</li>
+<li><a href="http://www3.cde.ca.gov/researchfiles/satactap/ap14.txt">2013&#8211;14 AP</a> (TXT; Revised 10-May-2016)</li>
+</ul>
+<br>
+</li>
+<li><strong>Prior Years</strong><br>
+<br>
+<ul>
+<li><a href="documents/ap13.xls">AP 2012&#8211;13</a> (XLS; Revised 17-Jul-2014)</li>
+<li> <a href="documents/ap12.xls">AP 2011&#8211;12</a> (XLS; Posted 05-Sep-2013)</li>
+<li> <a href="documents/ap11.xls">AP 2010&#8211;11</a>&nbsp;&nbsp;(XLS; Posted 14-Sep-2012)</li>
+<li> <a href="documents/ap10.xls">AP 2009&#8211;10</a>&nbsp;&nbsp;(XLS; Revised 26-Sep-2011)</li>
+<li> <a href="documents/ap09.xls">AP 2008&#8211;09</a>&nbsp; (XLS; Posted 18-May-2010)</li>
+<li> <a href="documents/ap08.xls">AP 2007&#8211;08</a> &nbsp;(XLS; Posted 28-May-2009)</li>
+<li> <a href="documents/ap07.xls">AP 2006&#8211;07</a> &nbsp;(XLS; Revised 19-May-2009)</li>
+<li> <a href="documents/ap06.xls">AP 2005&#8211;06</a> &nbsp;(XLS; Revised 19-May-2009)</li>
+<li> <a href="documents/ap05.xls">AP 2004&#8211;05</a> &nbsp;(XLS; Revised 19-May-2009)</li>
+<li> <a href="documents/ap04.xls">AP 2003&#8211;04</a> &nbsp;(XLS; Revised 19-May-2009)</li>
+<li> <a href="documents/ap03.xls">AP 2002&#8211;03</a> &nbsp;(XLS; Revised 19-May-2009)</li>
+<li> <a href="documents/ap02.xls">AP 2001&#8211;02</a> &nbsp;(XLS; Revised 19-May-2009)</li>
+<li> <a href="documents/ap01.xls">AP 2000&#8211;01</a> &nbsp;(XLS; Revised 19-May-2009)</li>
+<li> <a href="documents/ap00.xls">AP 1999&#8211;00</a> &nbsp;(XLS; Revised 19-May-2009)</li>
+<li> <a href="documents/ap99.xls">AP 1998&#8211;99</a> &nbsp;(XLS; Revised 19-May-2009)</li>
+</ul>
+</li>
+</ul>
+
+<h5>Other Resources</h5>
+<ul>
+<li><a href="http://www.act.org/" target="_blank">ACT, Inc.</a> <!-- #BeginLibraryItem "/Library/externallinkicon.lbi" -->
+<img src="/images/icons/externallink.gif" width="12" height="11" alt="External link opens in new window or tab." />
+<!-- #EndLibraryItem --></li>
+<li><a href="http://www.collegeboard.org" target="_blank">College Board</a> <!-- #BeginLibraryItem "/Library/externallinkicon.lbi" -->
+<img src="/images/icons/externallink.gif" width="12" height="11" alt="External link opens in new window or tab." />
+<!-- #EndLibraryItem --></li>
+</ul>
+
+<!-- InstanceEndEditable -->
+<div id="questionsline">Questions: SAT, ACT, AP Test Results Team | <a href='mailto:SATACTAP@cde.ca.gov'>SATACTAP@cde.ca.gov</a> | 916-319-0869&nbsp;
+<!-- InstanceBeginEditable name="contact" --><!-- InstanceEndEditable -->
+</div>
+<div class="lastmodified" style="margin-top:10px;text-align:left;color:black;font-weight:normal;font-size:14px;">
+    
+		Last Reviewed: Tuesday, March 14, 2017
+</div>
+
+</div>
+<div class="col-md-3" id="rightside-column">
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<div class="panel-title">Share this Page</div>
+		</div>
+		<div class="panel-body">
+			<a href="mailto:?subject=Postsecondary%20Preparation%20(CA%20Dept%20of%20Education)&amp;body=Here%20is%20a%20Web%20page%20that%20you%20might%20be%20interested%20in%20from%20the%20California%20Department%20of%20Education:%20http://www.cde.ca.gov/ds/sp/ai/index.asp" target="_blank" class="sharer-icons"> 
+<span class="invisible">Share via E-mail</span>
+<i class="fa fa-envelope-square fa-3x othericoncolor" title="Share via E-mail"></i></a>
+
+<a href="http://www.facebook.com/sharer/sharer.php?u=http://www.cde.ca.gov/ds/sp/ai/index.asp" target="_blank" class="sharer-icons">
+<span class="invisible">Share with Facebook</span>
+<i class="fa fa-facebook-square fa-3x facebookiconcolor" title="Share with Facebook"></i></a>
+
+<a href="http://twitter.com/share?text=Postsecondary%20Preparation%20(CA%20Dept%20of%20Education)&amp;url=http://www.cde.ca.gov/ds/sp/ai/index.asp&amp;hashtags=" target="_blank" class="sharer-icons">
+<span class="invisible">Share with Twitter</span>
+<i class="fa fa-twitter-square fa-3x twittericoncolor" title="Share with Twitter"></i></a>
+
+<a href="https://plus.google.com/share?url=http://www.cde.ca.gov/ds/sp/ai/index.asp"  target="_blank" class="sharer-icons">
+<span class="invisible">Share with Google Plus</span>
+<i class="fa fa-google-plus-square fa-3x googleplusiconcolor" title="Share with Google Plus"></i></a>
+
+<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.cde.ca.gov/ds/sp/ai/index.asp&amp;title=Postsecondary%20Preparation%20(CA%20Dept%20of%20Education)&amp;summary=Provides%20standardized%20test%20results%20from%20the%20SAT,%20ACT,%20and%20AP%20tests%20which%20measure%20high%20school%20students'%20achievement.
+&amp;source=www.cde.ca.gov" class="sharer-icons">
+<span class="invisible">Share with Linked-In</span>
+<i class="fa fa-linkedin-square fa-3x linkediniconcolor" title="Share with Linked-In"></i></a>
+		</div>
+	</div>
+
+    
+
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<div class="panel-title">Trending in School Performance</div>
+		</div>
+		<div class="panel-body">
+			<ul class='nobulletlistsidebar'>
+<li><a href='/ds/sp/cl/index.asp'>CALPADS</a></li>
+<li><a href='/ds/sp/cl/systemdocs.asp'>CALPADS System Documentation</a></li>
+<li><a href='/ds/sp/index.asp'>School Performance</a></li>
+<li><a href='/ds/sp/cl/calpadsfaqs.asp'>CALPADS Frequently Asked Questions</a></li>
+<li><a href='/ds/sp/cl/rptcalendar.asp'>CALPADS Calendar</a></li>
+
+			</ul>
+			<div id="moretrending" class="collapse">
+			<br/>
+			<ul class="nobulletlistsidebar">
+			<li><span style='color:#404040;font-weight:bold;'>Postsecondary Preparation</span> <span style='color:#404040'>(this page)</span></li>
+<li><a href='/ds/sp/cl/ssid.asp'>CALPADS Statewide Student Identifier</a></li>
+<li><a href='/ds/sp/cl/faq.asp'>CALPADS Frequently Asked Questions</a></li>
+<li><a href='/ds/sp/cl/communications.asp'>CALPADS Communications</a></li>
+<li><a href='/ds/sp/cl/listservs.asp'>CALPADS Listservs</a></li>
+<li><a href='/ds/sp/cl/training.asp'>CALPADS Training</a></li>
+</ul></div>
+			<button id="btnMoreTrending" type="button" data-open-text="Open" class="btn-link pull-right" style="padding-top:10px;" data-toggle="collapse" data-target="#moretrending" title="Expand the list of Trending Items" onclick="MoreShowHideTrending();">More Trending Items</button>
+		
+		</div>
+	</div>
+	
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<div class="panel-title">Recently Posted in School Performance</div>
+		</div>
+		<div class="panel-body">
+			<ul class='nobulletlistsidebar'>
+
+				<li><a href='/ds/sp/cl/calpadsupdflash125.asp'>CALPADS Update FLASH #125</a>  (added 15-Mar-2017)
+				<span style='font-size:14px'><br/>
+				Topics include: Fall 2 deadline; CIM meeting; SENR file changes; reporting librarians; CTE changes for EOY 1; CTE webinar; CASEMIS transition.</span>
+				</li>
+
+			
+
+				<li><a href='/ds/sp/ai/glossaryact2016.asp'>Glossary-2016 ACT Report</a>  (added 14-Mar-2017)
+				<span style='font-size:14px'><br/>
+				This glossary defines key terms shown on the school, district, county, and state level <i>2016 ACT Report</i></span>
+				</li>
+
+			
+
+				<li><a href='/ds/sp/ai/glossaryap2016.asp'>Glossary-2016 AP Report</a>  (added 14-Mar-2017)
+				<span style='font-size:14px'><br/>
+				This glossary defines key terms shown on the school, district, county, and state level <i>2016 AP Report</i></span>
+				</li>
+
+			
+
+				<li><a href='/ds/sp/ai/glossarysat2016.asp'>Glossary-2016 SAT Report</a>  (added 14-Mar-2017)
+				<span style='font-size:14px'><br/>
+				This glossary defines key terms shown on the school, district, county, and state level <i>2016 SAT Report</i></span>
+				</li>
+
+			
+
+				<li><a href='/ds/sp/ai/reclayoutact16.asp'>Layout for ACT Test Result</a>  (added 14-Mar-2017)
+				<span style='font-size:14px'><br/>
+				Provides field definitions for ACT Test Program data file.</span>
+				</li>
+
+			
+				
+				</ul>
+			 
+				<div id="morerecenlyposted" class="collapse">
+				
+				<br />
+				
+				<ul class='nobulletlistsidebar'>
+				
+			
+
+				<li><a href='/ds/sp/ai/reclayoutap16.asp'>Record Layout for AP Test Results</a>  (added 14-Mar-2017)
+				<span style='font-size:14px'><br/>
+				Provides field definitions of test results from AP Program Test. </span>
+				</li>
+
+			
+
+				<li><a href='/ds/sp/ai/reclayoutsat16.asp'>Record Layout for SAT Test Results</a>  (added 14-Mar-2017)
+				<span style='font-size:14px'><br/>
+				Provides field definitions for standardized test results from SAT Test.</span>
+				</li>
+
+			
+
+				<li><a href='/ds/sp/cl/documents/knownissues20170308.xls'>CALPADS Known Issues v1.4.43</a>  (XLS) (added 13-Mar-2017)
+				<span style='font-size:14px'><br/>
+				This document lists open issues that have been reported to the California Longitudinal Pupil Achievement Data System (CALPADS) office.</span>
+				</li>
+
+			
+
+				<li><a href='/ds/sp/cl/documents/errlistv88-20170307.xls'>CALPADS Error List v8.8</a>  (XLS) (added 10-Mar-2017)
+				<span style='font-size:14px'><br/>
+				This document contains descriptions for each error generated when submitting given data to CALPADS. </span>
+				</li>
+
+			
+
+				<li><a href='/ds/sp/cl/documents/rlsupdate20170307.xls'>CALPADS Release Updates v1.2.03</a>  (XLS) (added 07-Mar-2017)
+				<span style='font-size:14px'><br/>
+				Release updates for CALPADS dated, March 7, 2017. </span>
+				</li>
+
+				</ul></div>
+					<button id="btnMore" type="button" data-open-text="Open" class="btn-link pull-right" style="padding-top:10px;" data-toggle="collapse" data-target="#morerecenlyposted" title="Expand the list of Recently Posted Items" onclick="MoreShowHide();">More Recently Posted Items</button>
+					
+		</div>
+	</div>
+							
+</div>
+
+</div>
+</div>
+
+<hr/>
+<footer role="contentinfo">
+
+	<div class="row">
+    <h2 class="sr-only">Footer Navigation Menu</h2>
+		<div class="col-md-3">
+			<h3 class="megafooter-topics">About CDE</h3>
+            <p><a href="/re/di/cd/cde.asp">CDE Locations</a></p>
+			<p><a href="/eo/mn/mv">CDE Mission</a></p>
+            <p><a href="/re/di/or/">CDE Organization</a></p>
+			<p><a href="/re/di/sd/">CDE Staff Directory</a></p>
+			<p><a href="/re/di/cd/">Contact Us</a></p>
+			<p><a href="/re/di/eo/">Equal Opportunity</a></p>
+			<p><a href="/re/di/jb/">Jobs at CDE</a></p>
+			<p><a href="/nr/">Newsroom</a></p>
+			<p><a href="/eo/in/">Superintendent's Initiatives</a></p>
+
+			<h3 class="megafooter-topics megafooter-secondary-topic">State Board of Education</h3>
+			<p><a href="/be/ag/ag/">Meeting Agendas</a></p>
+			<p><a href="/be/mt/">Meeting Minutes &amp; Schedule</a></p>
+			<p><a href="/be/ms/mm/">Members</a></p>
+		</div>	
+		<div class="col-md-3">				
+			<h3 class="megafooter-topics">Popular Content</h3>
+			<p><a href="/ta/ac/cm/">California School Accountability Dashboard</a></p>
+			<p><a href="/re/cc/">Common Core State Standards</a></p>
+			<p><a href="/re/cp/">Complaint Procedures</a></p>
+			<p><a href="/be/st/ss/">Content Standards</a></p>
+            <p><a href="/ci/cr/">Curriculum Resources</a></p>
+			<p><a href="/fg/fo/">Education Funding</a></p>
+			<p><a href="/sp/el/er/eldstandards.asp">English Language Development Standards</a></p>
+            <p><a href="/fg/aa/">Financial Allocations &amp; Apportionments</a></p>
+			<p><a href="/ta/tg/gd/">High School Equivalency Tests</a></p>
+			<p><a href="/ci/gs/hs/hsgrgen.asp">High School Graduation Requirements</a></p>
+			<p><a href="/ci/gs/em/kinderinfo.asp">Kindergarten in California</a></p>
+			<p><a href="/ta/tg/ai/rtq.asp">Released Test Questions</a></p>
+			<p><a href="/ta/ac/cm/">School Accountability Dashboard</a></p>
+			<p><a href="/eo/in/socialemotionallearning.asp">Social and Emotional Learning</a></p>
+            <p><a href="/be/st/">Standards &amp; Frameworks</a></p>
+		</div>
+		<div class="col-md-3">				
+			<h3 class="megafooter-topics">Popular Program Areas</h3>
+			<p><a href="/ta/ac/">Accountability - School Performance</a></p>
+			<p><a href="/ls/ba/">Before &amp; After School</a></p>
+			<p><a href="/ci/ct/">Career Technical Education</a></p>
+			<p><a href="/sp/cs/">Charter Schools</a></p>
+			<p><a href="/ls/nu/">Child Nutrition</a></p>
+			<p><a href="/sp/cd/">Child Development</a></p>
+			<p><a href="/fg/aa/pa/">Principal Apportionments</a></p>
+            <p><a href="/ls/ss/">Safe Schools</a></p>
+            <p><a href="/ls/fa/">School Facilities</a></p>
+			<p><a href="/sp/se/">Special Education</a></p>
+			<p><a href="/ta/tg/">Standardized Testing</a></p>
+			<p><a href="/sp/sw/">Title I</a></p>
+			<p><a href="/sp/el/t3/">Title III</a></p>
+		</div>
+		<div class="col-md-3">
+			<h3 class="megafooter-topics">Resources</h3>
+            <p><a href="/schooldirectory/">California School Directory</a></p>
+            <p><a href="/re/ca/">Education Calendars</a></p>
+            <p><a href="/re/di/fq/">Education FAQs</a></p>
+			<p><a href="/re/di/eo/languageservices.asp">Language Access Complaint</a></p>
+            <p><a href="/re/lr/">Laws &amp; Regulations</a></p>
+            <p><a href="/ls/pf/cm/">Multilingual Documents</a></p>
+            <p><a href="/re/pn/">Publications</a></p>
+            <p><a href="/sdprofile/search.aspx">School and District Reports</a></p>
+            <p>>> <a href="/re/">More Resources</a></p>
+            
+			<h3 class="megafooter-topics megafooter-secondary-topic">Site Information</h3>
+			<p><a href="/search/advsearch.asp">Advanced Search</a></p>
+			<p><a href="/azindex/">A-Z Index</a></p>
+			<p><a href="/sitemap/">Site Map</a></p>
+			<p><a href="/re/di/ws/webpolicy.asp">Web Policy</a></p>
+			
+
+
+		</div>
+	</div>
+	
+
+	<p style="text-align:center">
+		&copy; California Department of Education
+	</p>
+
+</footer>
+
+</div>
+
+<!-- Bootstrap core JavaScript-->
+<script src="/bootstrap/js/jquery-1.10.2.min.js"></script>
+<script src="/bootstrap/js/bootstrap.min.js"></script>
+<script>
+$(function() {
+window.prettyPrint && prettyPrint()
+$(document).on('click', '.yamm .dropdown-menu', function(e) {
+    e.stopPropagation()
+})
+})
+</script>
+
+<!-- Highlight section anchor sections -->
+<script>
+if(window.location.hash) {
+  // Fragment exists
+	var hash = window.location.hash.slice(1); //Puts hash in variable, and removes the # character
+}
+
+$(document).ready(function(){
+if($("div").hasClass("sectionitem")) {
+	// if Section Anchor Item shared asset exists, add class
+	$("a[name=" + hash + "]").parent().next("div").addClass("highlightitem");
+  }
+});
+
+$(window).bind('hashchange', function () { //detect hash change
+	var hash2 = window.location.hash.slice(1); //hash to string
+	if($("div").hasClass("highlightitem")) {
+		$("div").removeClass("highlightitem");
+	  }
+	if($("div").hasClass("sectionitem")) {
+		$("a[name=" + hash2 + "]").parent().next("div").addClass("highlightitem");
+	  }
+});
+
+</script>
+
+
+		<!-- Google Analytics asynchronous-->
+		<script src="/gatag.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-5215488-1']);
+			_gaq.push(['_setDomainName', '.cde.ca.gov']);
+			_gaq.push(['_trackPageview']);
+
+			(function () {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,8 @@
+from sync_luigi import ixisync
+import luigi
+import time
+luigi.run(["--local-scheduler"], sync_luigi=ixisync)
+# while True:
+#     DoSync()
+#     print('Waiting...')
+#     time.sleep(3000)

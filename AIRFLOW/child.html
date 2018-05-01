@@ -1,0 +1,6 @@
+{% extends "GeneralTemplate.html" %}'
+             '{% block content %}'
+             '<table class="table"><tr><th>PART_ID</th><th>PART_DESC</th><th>PART_UM</th><th>PO_ID</th><th>QUANTITY</th><th>CREATED_BY</th><th>TIME_LAST_UPDT</th></tr>'
+             '{% for row in rows %}<tr><td>{{row.PART_ID}}</td><td>{{row.PART_DESC}}</td><td>{{row.PART_UM}}</td><td>{{row.PO_ID}}</td><td>{{row.QUANTITY}}</td><td>{{row.CREATED_BY}}</td><td>{{row.TIME_LAST_UPDT}}</td></tr>{% endfor %}'
+             '</table>'
+             '{% endblock %}
